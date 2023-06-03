@@ -23,7 +23,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje trabalho como desenvolvedor Full-Stack
 - 🌱 Estudando Python
 - 📫 Contate-me no email: rhyan1510@hotmail.com
 - 😄 Pronouns: ele/dele
